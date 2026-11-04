@@ -15,4 +15,4 @@ Videos from two text-to-video models, all generated with **seed 42**:
 | `vibe_hunyuan` | HunyuanVideo | ViBe | 704 |
 | `vibe_wan` | Wan 2.1 | ViBe | 704 |
  
-Total: 4,208 videos (about 7.9 GB). The text prompts are in `prompts/`.
+Total: 4,208 videos (about 7.9 GB). The text prompts are in `prompts/`, and human labels for the videos can be found in `labels/`.
